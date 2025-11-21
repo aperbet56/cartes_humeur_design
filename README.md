@@ -6,7 +6,7 @@ Création de cartes d'humeur (avec un travil spécifique sur le design).
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/cartes_humeur_design/
 
 ## Projet développé avec
 
