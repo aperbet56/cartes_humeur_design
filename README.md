@@ -1,8 +1,10 @@
 ## CARTES D'HUMEUR DESIGN 😊 😈
 
-## Le challnege
+![Design preview for the project](./img/banner.png)
 
-Création de cartes d'humeur (avec un travil spécifique sur le design).
+## Le challenge
+
+Création de cartes d'humeur (avec un travail spécifique sur le design).
 
 ## Démonstration
 
@@ -20,3 +22,4 @@ Lien vers le projet : https://aperbet56.github.io/cartes_humeur_design/
 - Position relative
 - Commentaires HTML
 - Commentaires CSS
+- Importation de la police "Figtree"
