@@ -22,4 +22,5 @@ Lien vers le projet : https://aperbet56.github.io/cartes_humeur_design/
 - Position relative
 - Commentaires HTML
 - Commentaires CSS
+- Utilisation d'un normaliseur : le fichier normalize.css
 - Importation de la police "Figtree"
